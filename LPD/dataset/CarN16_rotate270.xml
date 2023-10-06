@@ -1,0 +1,19 @@
+<annotation>
+  <filepath>./dataset/CarN16_rotate270.jpg</filepath>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+  </size>
+  <object>
+    <bndbox>
+      <x1>1066</x1>
+      <y1>518</y1>
+      <x2>1066</x2>
+      <y2>803</y2>
+      <x3>994</x3>
+      <y3>803</y3>
+      <x4>995</x4>
+      <y4>518</y4>
+    </bndbox>
+  </object>
+</annotation>

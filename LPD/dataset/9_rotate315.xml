@@ -1,0 +1,19 @@
+<annotation>
+  <filepath>./dataset/9_rotate315.jpg</filepath>
+  <size>
+    <width>960</width>
+    <height>575</height>
+  </size>
+  <object>
+    <bndbox>
+      <x1>302</x1>
+      <y1>26</y1>
+      <x2>788</x2>
+      <y2>512</y2>
+      <x3>655</x3>
+      <y3>645</y3>
+      <x4>169</x4>
+      <y4>159</y4>
+    </bndbox>
+  </object>
+</annotation>

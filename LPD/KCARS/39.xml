@@ -1,0 +1,26 @@
+<annotation>
+	<folder>KCARS</folder>
+	<filename>39.jpg</filename>
+	<path>C:\Users\user\OneDrive\바탕 화면\KCARS\39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>340</width>
+		<height>255</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>177</ymin>
+			<xmax>315</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>
